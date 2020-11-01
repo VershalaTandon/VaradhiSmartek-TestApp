@@ -1,4 +1,4 @@
-#VaradhiSmartek-TestApp
+# VaradhiSmartek-TestApp
 Task Assignment
 
 1. Get APK by following TaskAssignment\app\release
