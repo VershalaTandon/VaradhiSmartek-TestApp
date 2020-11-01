@@ -1,6 +1,6 @@
 #VaradhiSmartek-TestApp
 Task Assignment
 
-Get APK by following TaskAssignment\app\release
-Install APK.
-Check screenshots
+1. Get APK by following TaskAssignment\app\release
+2. Install APK.
+3. Check screenshots
